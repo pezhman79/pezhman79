@@ -48,12 +48,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <p align="left">About Me 🌍<br>🎓 I hold a Master of Science degree in Petroleum Engineering.<br>🛢️ My expertise spans Flow Assurance, Enhanced Oil Recovery (EOR), and Acidizing.<br>💻 Skilled in Python and experienced with Jupyter Notebook, I love creating tools and solutions for the oil and gas industry.<br>⚙️ Committed to using technology and data to tackle real-world problems in energy and beyond.<br><br>My Interests 🚀<br>🌐 Flow Assurance: Developing models and simulations to ensure efficient hydrocarbon transportation.<br>🛢️ Enhanced Oil Recovery (EOR): Innovating techniques to maximize reservoir output.<br>⚡ Acidizing: Innovating and optimizing techniques for well stimulation.<br>🤖 Machine Learning & Data Science: Leveraging Python to analyze data and predict outcomes.<br>🧪 Bridging traditional engineering with modern computational methods.</p>
 
 ###
