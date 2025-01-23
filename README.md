@@ -25,11 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ5am95OHRjMW1wdXZnYzNuOGkxdmV0N3Zrc3p3Z3Y2amFobGNmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBFdPL9iTLRfi/giphy.gif)"  />
-
-###
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ5am95OHRjMW1wdXZnYzNuOGkxdmV0N3Zrc3p3Z3Y2amFobGNmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBFdPL9iTLRfi/giphy.gif" width="250px" align="right" alt="Fun GIF">
 
 <div align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pejamnnazeri79@gmail.com" target="_blank">
